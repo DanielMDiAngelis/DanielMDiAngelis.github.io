@@ -61,8 +61,8 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-color: #cfcfcf;
+  --bs-body-bg: #000000;
   --bs-border-width: 1px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
@@ -73,8 +73,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #212529;
-  --bs-link-hover-color: #0085A1;
+  --bs-link-color: #bb9cc9;
+  --bs-link-hover-color: #931dca;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -10684,8 +10684,8 @@ header.masthead:before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #212529;
-  opacity: 0.5;
+  background-color: #000000;
+  opacity: 0.0;
 }
 header.masthead .page-heading,
 header.masthead .post-heading,
@@ -10767,11 +10767,11 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview > a {
-  color: #212529;
+  color: #bfbfbf;
 }
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: #ffffff;
 }
 .post-preview > a > .post-title {
   font-size: 1.875rem;
